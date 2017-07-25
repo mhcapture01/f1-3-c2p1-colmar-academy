@@ -1,0 +1,432 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTQ7aC6SjiAOpAWOKfJDfVRY.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTRdwxCXfZpKo5kWAx_74bHs.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTZ6vnaPZw6nYDxM4SVEMFKg.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTfy1_HTwRwgtl1cPga3Fy3Y.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTfgrLsWo7Jk1KvZser0olKY.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTYjoYw3YTyktCCer_ilOlhE.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTRampu5_7CjHW5spxoeN3Vs.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzA7aC6SjiAOpAWOKfJDfVRY.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzBdwxCXfZpKo5kWAx_74bHs.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzJ6vnaPZw6nYDxM4SVEMFKg.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzPy1_HTwRwgtl1cPga3Fy3Y.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzPgrLsWo7Jk1KvZser0olKY.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzIjoYw3YTyktCCer_ilOlhE.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzBampu5_7CjHW5spxoeN3Vs.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+body {
+	  font-family: Open Sans, sans-serif;
+	  background-color: #f3f5f5;
+	  margin: 10px 0px;
+	  
+}
+
+
+
+header {
+	 max-height: 60px;
+	 /* padding-top: 40px; */
+	 color: #000000;
+}
+
+.container {
+	  margin: 0 auto;
+	  padding: 0px 24px;
+	  position: relative;
+}
+div{
+  margins:0 px;
+  overflow:hidden;
+}
+
+.container nav span#academy{
+	text-decoration: none;
+	color: #d8d8d8;
+	font-size: 1.25em;
+	font-weight: bold; 
+	vertical-align: center;
+}
+.container nav span#colmar {
+	color: ##4a4a4a;
+	font-size: 1.25em;
+	font-weight: bold; 
+	vertical-align: center;
+}
+
+#logo-lion  {
+	  fill: #000000;
+	  vertical-align: center;
+	  height: auto;
+	  width 100%;
+}
+.learning h1 {
+	margin: 32px auto;
+	text-align: center;
+	color: #4a4a4a;
+}
+.learning .grid {
+	max-width: 100%;
+	    display: -webkit-box;
+}
+.learning section {
+  display: inline-block;
+  margin: 0 1.5%;
+  width: 30%;
+}
+.learning section img {
+  	width: 100%;
+    height: auto;
+}
+.learning .group:before,
+.learning .group:after {
+  content: "";
+  display: table;
+}
+.learning .group:after {
+  clear: both;
+}
+.learning .group {
+  clear: both;
+  *zoom: 1;
+}
+.learning  section {
+  float: left;
+  margin: 0 1.5%;
+  width: 50%;
+}
+.learning  aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
+.learning .col-1-3 {
+    width: 17%;
+    margin: 30px;
+    background-color: white;
+    position: relative;
+   
+}
+.learning .col-1-3 #description {
+  padding: 0px 16px; 10px 16px;
+  
+}
+.learning .col-1-3 #description h2 {
+	color: #4a4a4a;
+	margin-bottom: 16px;
+	font-weight: bold;
+}
+#description p {
+  color: #9d9d9d;
+  font-size: 1.05em;
+  margin-top: 8px;
+  line-height: 25px;
+}
+
+.practice section {
+  float: left;
+  margin: 0 1.5%;
+  width: 63%;
+}
+.practice aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
+
+       
+
+.banner {
+	background-color: #d8d8d8;
+	padding: 32px;
+	height: 100%;
+	display: flex;
+	max-height: 800px
+}
+.banner img {
+	max-width: 60%;
+	float: left;
+	margin-right: 40px;
+}
+.banner .text {
+	color: #4a4a4a;
+	max-width: 450px;
+	margin-left: 40px;
+}
+.banner button {
+	color: #ffffff;
+	background-color: #4a4a4a;
+	padding: 16px;
+	width: 100%;
+	box-shadow: none;
+	border-style: none;
+	font-size: 1.25em;
+}
+.banner h2 {
+    line-height: 35px;
+    margin-bottom: 1.65em;
+    margin-top: 1.20em;
+}
+.banner h1 {
+	margin-bottom: 0px;
+	 line-height: 55px;
+}
+
+button {
+	font-size: 1em;
+	
+}
+footer {
+	margin: 24px;
+	color: #767676;
+	border-top: 1px solid #e9ebeb;
+}
+footer p {
+	float: left;
+}
+footer ul {
+	float: right;
+}
+
+footer li{
+	display: inline;
+	padding-right: 1em;
+	list-style-type: none;
+}
+footer li a {
+	text-decoration: none;
+	color: #767676;
+
+}
+
+
+h1 {
+	  width: 100%;
+	  margin-top: 120px;
+	  font-weight: 800;
+	  font-size: 3em;
+		}
+h2 {
+	font-size: 1.5em;
+}
+
+nav > ul {
+  	float: right;
+}
+
+nav > ul > li {
+  	text-align: center;
+	 /* line-height: 40px;*/
+	  margin-left: 16px;
+}
+
+nav > ul li ul li {
+	  width: 100%;
+  		text-align: left;
+}
+
+nav ul li:hover {
+	  cursor: pointer;
+	  position: relative;
+}
+nav ul li:hover > ul {
+  	display: block;
+}
+nav ul li:hover > a {
+	  color: #777;
+}
+nav > ul > li > a {
+	  cursor: pointer;
+	  display: block;
+  	outline: none;
+  	width: 100%;
+	  text-decoration: none;
+}
+
+nav > ul > li {
+  	float: left;
+  	list-style-type: none;
+}
+nav a {
+	  color: #000000;
+
+}
+nav > ul li ul {
+  	display: none;
+  	position: absolute;
+  	left: 0;
+	top: 100%;
+  	width: 100%;
+	z-index: 2000;
+}
+nav > ul li ul li > a {
+	  text-decoration: none;
+}
+
+[type="checkbox"], label {
+	  display: none;
+}
+
+@media screen and (max-width: 768px) {
+	nav ul {
+		  display: none;
+	}
+
+	label {
+  		display: block;
+  		background: #222;
+		width: 40px;
+  		height: 40px;
+  		cursor: pointer;
+		position: absolute;
+		right: 20px;
+  		top: 0px;
+	}
+  
+label:after{
+  content:'';
+  display: block;
+  width: 30px;
+  height: 5px;
+  background: #777;
+  margin: 7px 5px;
+  box-shadow: 0px 10px 0px #777, 0px 20px 0px #777
+}
+
+	[type="checkbox"]:checked ~ ul {
+  		display: block;
+  		z-index: 9999;
+  		position: absolute;
+		  right: 20px;
+		  left: 20px;
+	}
+
+	nav a {
+		  color: #00000;
+	}
+
+	nav ul li {
+		  display: block;
+  		float: none;
+  		width: 100%;
+  		text-align: left;
+  		background: #222;
+		  text-indent: 20px;
+	}
+
+	nav > ul > li {
+  		margin-left: 0px;
+	}
+
+	nav > ul li ul li {
+  		display: block;
+		  float: none;
+	}
+  
+	nav > ul li ul {
+		  display: block;
+  		position: relative;
+  		width: 100%;
+		  z-index: 9999;
+		  float: none;
+	}
+h1 {
+	  font-size: 26px;
+}
+}
